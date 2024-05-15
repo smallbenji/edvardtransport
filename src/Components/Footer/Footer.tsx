@@ -15,7 +15,7 @@ function Footer() {
 					</div>
 					<div className="FooterBox"></div>
 					<div className="FooterBox">
-						<img src="benji.png" alt="" />
+						<img src="./benji.png" alt="" />
 					</div>
 				</div>
 				<a href="https://smallbenji.tech">
