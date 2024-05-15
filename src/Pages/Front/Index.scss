@@ -1,0 +1,79 @@
+.AppBarLogoName {
+	margin-left: 10px;
+}
+
+.MainPage {
+	overflow-x: scroll;
+	.Vognmand {
+		height: 500px;
+		text-align: center;
+		background-image: url("Lastbil2.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		color: white;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+
+		h1 {
+			margin: 0px;
+			font-size: 30px;
+		}
+	}
+
+	.mennesket {
+		background-color: wheat;
+		height: 100%;
+
+		.Title {
+			display: flex;
+
+			font-size: 14px;
+			.MuiSvgIcon-root {
+				font-size: 50px;
+				margin: 10px;
+			}
+		}
+
+		p {
+			margin: 0px;
+		}
+	}
+	.lastbil {
+		background-color: aqua;
+		height: 100%;
+
+		.Title {
+			display: flex;
+
+			font-size: 14px;
+			.MuiSvgIcon-root {
+				font-size: 50px;
+				margin: 10px;
+			}
+		}
+
+		p {
+			margin: 0px;
+		}
+	}
+	.døgnet {
+		background-color: lime;
+		height: 100%;
+
+		.Title {
+			display: flex;
+
+			font-size: 14px;
+			.MuiSvgIcon-root {
+				font-size: 50px;
+				margin: 10px;
+			}
+		}
+
+		p {
+			margin: 0px;
+		}
+	}
+}
