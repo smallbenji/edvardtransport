@@ -25,12 +25,14 @@ const Index = () => {
 								<h2>Mennesket</h2>
 							</div>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipisicing elit. Dolorem laboriosam mollitia
-								quos voluptate, illo harum! Facere omnis ut
-								fugit porro expedita placeat, corrupti dicta
-								tempore dolorem voluptatibus quaerat adipisci
-								tenetur.
+								I Edvard Auto sætter vi mennesket i fokus. Vi
+								prioriterer vores medarbejderes trivsel,
+								sikkerhed og udvikling, hvilket skaber et bedre
+								arbejdsmiljø og en stærkere virksomhed. Ved at
+								lytte til og værdsætte hver enkelt medarbejders
+								behov og bidrag, leverer vi ikke blot bedre
+								service for vores kunder, men bygger også en
+								sundere og mere effektiv forretning.
 							</p>
 						</div>
 					</Grid>
@@ -41,12 +43,9 @@ const Index = () => {
 								<h2>Lastbilen</h2>
 							</div>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipisicing elit. Dolorem laboriosam mollitia
-								quos voluptate, illo harum! Facere omnis ut
-								fugit porro expedita placeat, corrupti dicta
-								tempore dolorem voluptatibus quaerat adipisci
-								tenetur.
+								I 2024 købte Edvard Auto den første lastbil,
+								hvilket markerede begyndelsen på en spændende
+								rejse i transportbranchen.
 							</p>
 						</div>
 					</Grid>
@@ -57,12 +56,13 @@ const Index = () => {
 								<h2>Alle timer i døgnet</h2>
 							</div>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipisicing elit. Dolorem laboriosam mollitia
-								quos voluptate, illo harum! Facere omnis ut
-								fugit porro expedita placeat, corrupti dicta
-								tempore dolorem voluptatibus quaerat adipisci
-								tenetur.
+								Hos Edvard Auto er der ingen tidspunkter, hvor
+								vi ikke kan køre. Vi opererer døgnet rundt,
+								24/7, for at sikre, at vores kunders behov altid
+								bliver opfyldt. Uanset tidspunktet på dagen
+								eller natten, står Edvard Autos pålidelige
+								vognmænd klar til at levere effektiv og hurtig
+								transport.
 							</p>
 						</div>
 					</Grid>

@@ -2,6 +2,8 @@ import { useState } from "react";
 import { AppBar, Button, Drawer, Toolbar } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 
+import "./Header.scss";
+
 const Header = () => {
 	const [open, setOpen] = useState(false);
 
@@ -13,6 +15,10 @@ const Header = () => {
 		<AppBar position="static">
 			<Toolbar>
 				<div className="AppBarLogoName">
+					<img
+						src="./edvardauto_udentekst.png"
+						alt="HjemmesideLogo"
+					/>
 					<h1>Edvard Auto</h1>
 				</div>
 				<div style={{ flexGrow: 1 }}></div>
